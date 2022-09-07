@@ -1,0 +1,36 @@
+h1{
+    color: darkorange;
+    text-align: center;
+}
+
+body{
+    border: solid rgb(0, 0, 0);
+    border-width: thick;
+    overflow:hidden;
+}
+
+div{
+    background-color: rgb(110, 75, 142);
+    border: solid rgb(77, 145, 197);
+    border-width: thick;
+    overflow:hidden;
+    display:block;
+    width: 500px;
+    padding-bottom: 10px;
+    align-items: center;
+    align-content: center;
+}
+
+.card{
+        width: 500px;
+        background-color: rgb(255, 0, 0);
+        text-align: center;
+        align-items: center;
+        align-content: center;
+
+}
+
+#dish_name {
+            color: white;
+
+}
